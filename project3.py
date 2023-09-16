@@ -4,7 +4,7 @@ db = {}
 
 #To print the school/collage name
 print("-"*100)
-print("\t\t\t\tThe Kiran Acedemy")
+print("\t\t\t\tStudent Management System")
 print("-"*100) 
 
 while True:            #To perform operations continuosly until we don't want to stop it
